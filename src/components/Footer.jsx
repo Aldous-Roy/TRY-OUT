@@ -35,6 +35,7 @@ const Footer = () => {
         >
           Privacy Policy
         </a>
+        <p className="text-center text-sm font-light hover:underline md:text-right">Designed by Aldous Roy</p>
       </div>
     </footer>
   );
